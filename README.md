@@ -1,2 +1,2 @@
 # aplicacion de Angular : Task List (lista de tareas)
-es un crud usando Json server
+es un aplicacion C.R.U.D de Angular, usando un json-server
