@@ -1,2 +1,2 @@
-# aplicacion de Angular : Task List (lista de tareas)
-es un aplicacion C.R.U.D de Angular, usando un json-server
+# Task List APP ANGULAR
+"It's a C.R.U.D application in Angular, using a JSON-server.
