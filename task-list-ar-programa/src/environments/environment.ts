@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  // Apunta a tu función serverless emulada o json-server si lo sigues usando
+  apiUrl: 'http://localhost:5000/tasks',
 };
 
 /*
